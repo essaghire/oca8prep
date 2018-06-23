@@ -1,4 +1,5 @@
 ####### Chqpter 1
+
 	Java Basics
 	■ Define the scope of variables
 	■ Define the structure of a Java class
